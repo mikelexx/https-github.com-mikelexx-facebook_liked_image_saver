@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Facebook_Liked_Image_saver",
+  "description": "Save liked images from Facebook",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "hello_extensions.png"
+  }
+}
